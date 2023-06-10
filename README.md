@@ -4,4 +4,8 @@
 
 selenium_scraper: scraping ices tea products details from 'https://www.woolworths.com.au/shop/browse/drinks/cordials-juices-iced-teas/iced-teas/' show page by navigating to each product details pageusing the flexibility of selenium clicks
 
+<<<<<<< HEAD
 scrap_fruit_vg: scraping details of fruits and vegetables from 'https://www.woolworths.com.au/shop/browse/fruit-veg' by locating web elements using selenium 
+=======
+scrap_fruit_vg: scraping details of fruits and vegetables from 'https://www.woolworths.com.au/shop/browse/fruit-veg' by locating web elements using selenium 
+>>>>>>> df7b9aac4d47482483f912e44b47975042db3e6e
