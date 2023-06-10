@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 
 driver = webdriver.Chrome(executable_path='C:/Users/Lenovo/chromedriver_win32/chromedriver.exe')
 driver.get('https://www.woolworths.com.au/shop/browse/fruit-veg')
-
+driver.implicitly_wait(10)
 #extract products
 products=driver.find_elements(By.CLASS_NAME, "product-tile-title")
 
